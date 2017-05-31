@@ -1,0 +1,75 @@
+r@  1 = 25.530
+r@  2 = 25.600
+r@  5 = 25.600
+r@ 10 = 25.600
+r@ 20 = 25.600
+r@ 50 = 25.600
+r@100 = 25.600
+KDTree parament:  NumNeighbors= 100  MaxComparisons=150 
+KDTree encode = 12.250 s
+KDTree search = 1.484 s  for 10000 query vectors in a database of 1000000 vectors
+r@  1 = 57.310
+r@  2 = 57.620
+r@  5 = 57.620
+r@ 10 = 57.620
+r@ 20 = 57.620
+r@ 50 = 57.620
+r@100 = 57.620
+r@200 = 57.620
+r@500 = 57.620
+r@1000 = 57.620
+KDTree parament:  NumNeighbors= 1000  MaxComparisons=1500 
+KDTree encode = 12.438 s
+KDTree search = 13.203 s  for 10000 query vectors in a database of 1000000 vectors
+r@  1 = 75.870	
+r@  2 = 76.220
+r@  5 = 76.220
+r@ 10 = 76.220
+r@ 20 = 76.220
+r@ 50 = 76.220
+r@100 = 76.220
+r@200 = 76.220
+r@500 = 76.220
+r@1000 = 76.220
+KDTree parament:  NumNeighbors= 1000  MaxComparisons=5000 
+KDTree encode = 11.938 s
+KDTree search = 40.063 s  for 10000 query vectors in a database of 1000000 vectors
+r@  1 = 85.150
+r@  2 = 85.610
+r@  5 = 85.610
+r@ 10 = 85.610
+r@ 20 = 85.610
+r@ 50 = 85.610
+r@100 = 85.610
+r@200 = 85.610
+r@500 = 85.610
+r@1000 = 85.610
+KDTree parament:  NumNeighbors= 1000  MaxComparisons=10000 
+KDTree encode = 11.688 s
+KDTree search = 79.328 s  for 10000 query vectors in a database of 1000000 vectors
+r@  1 = 96.940
+r@  2 = 97.680
+r@  5 = 97.680
+r@ 10 = 97.680
+r@ 20 = 97.680
+r@ 50 = 97.680
+r@100 = 97.680
+r@200 = 97.680
+r@500 = 97.680
+r@1000 = 97.680
+KDTree parament:  NumNeighbors= 1000  MaxComparisons=50000 
+KDTree encode = 14.406 s
+KDTree search = 406.719 s  for 10000 query vectors in a database of 1000000 vectors
+r@  1 = 98.670
+r@  2 = 99.370
+r@  5 = 99.370
+r@ 10 = 99.370
+r@ 20 = 99.370
+r@ 50 = 99.370
+r@100 = 99.370
+r@200 = 99.370
+r@500 = 99.370
+r@1000 = 99.370
+KDTree parament:  NumNeighbors= 1000  MaxComparisons=100000 
+KDTree encode = 13.813 s
+KDTree search = 865.016 s  for 10000 query vectors in a database of 1000000 vectors
