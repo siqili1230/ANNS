@@ -2,8 +2,8 @@ run('E:\Document\others\CAD\vlfeat-0.9.20\toolbox/vl_setup')
 
 NumNeighbors=1000;
 k=NumNeighbors;
-MaxComparisons=100000;
-dataset='sift';
+%MaxComparisons=100000;
+dataset='gist';
 pq_test_load_vectors;
 t0=cputime;
 kdtree = vl_kdtreebuild(vbase);

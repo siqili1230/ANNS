@@ -1,0 +1,5 @@
+e2lsh l=10 k=4 nn_k=100 w=300 : 
+r@100 = 100.000
+e2lsh encode = 83.906 s
+e2lsh search 1000 queries = 15396.188 s
+

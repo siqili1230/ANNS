@@ -1,0 +1,264 @@
+r@100 = 98.710
+IVFADC parament:  k= 100  coarsek=64  m=16  ker=128  w=8 
+IVFADC learn  = 96.484 s
+IVFADC encode = 25.969 s
+IVFADC search = 241.953 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.280
+IVFADC parament:  k= 100  coarsek=64  m=16  ker=128  w=16 
+IVFADC learn  = 99.031 s
+IVFADC encode = 25.906 s
+IVFADC search = 484.922 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.320
+IVFADC parament:  k= 100  coarsek=64  m=16  ker=128  w=32 
+IVFADC learn  = 94.000 s
+IVFADC encode = 25.047 s
+IVFADC search = 867.719 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.110
+IVFADC parament:  k= 100  coarsek=64  m=16  ker=256  w=8 
+IVFADC learn  = 141.594 s
+IVFADC encode = 36.000 s
+IVFADC search = 207.563 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.690
+IVFADC parament:  k= 100  coarsek=64  m=16  ker=256  w=16 
+IVFADC learn  = 140.594 s
+IVFADC encode = 36.281 s
+IVFADC search = 426.984 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.730
+IVFADC parament:  k= 100  coarsek=64  m=16  ker=256  w=32 
+IVFADC learn  = 141.672 s
+IVFADC encode = 36.297 s
+IVFADC search = 824.063 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 36.850
+IVFADC parament:  k= 100  coarsek=64  m=16  ker=512  w=8 
+IVFADC learn  = 253.500 s
+IVFADC encode = 63.703 s
+IVFADC search = 213.438 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 36.880
+IVFADC parament:  k= 100  coarsek=64  m=16  ker=512  w=16 
+IVFADC learn  = 251.938 s
+IVFADC encode = 64.109 s
+IVFADC search = 439.250 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 36.880
+IVFADC parament:  k= 100  coarsek=64  m=16  ker=512  w=32 
+IVFADC learn  = 252.563 s
+IVFADC encode = 63.484 s
+IVFADC search = 848.094 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.350
+IVFADC parament:  k= 100  coarsek=64  m=32  ker=128  w=8 
+IVFADC learn  = 163.594 s
+IVFADC encode = 26.375 s
+IVFADC search = 271.688 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.950
+IVFADC parament:  k= 100  coarsek=64  m=32  ker=128  w=16 
+IVFADC learn  = 163.422 s
+IVFADC encode = 26.344 s
+IVFADC search = 554.344 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 100.000
+IVFADC parament:  k= 100  coarsek=64  m=32  ker=128  w=32 
+IVFADC learn  = 162.703 s
+IVFADC encode = 26.797 s
+IVFADC search = 1066.469 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.350
+IVFADC parament:  k= 100  coarsek=64  m=32  ker=256  w=8 
+IVFADC learn  = 286.594 s
+IVFADC encode = 46.203 s
+IVFADC search = 274.719 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.950
+IVFADC parament:  k= 100  coarsek=64  m=32  ker=256  w=16 
+IVFADC learn  = 284.875 s
+IVFADC encode = 45.984 s
+IVFADC search = 557.469 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 100.000
+IVFADC parament:  k= 100  coarsek=64  m=32  ker=256  w=32 
+IVFADC learn  = 284.688 s
+IVFADC encode = 46.156 s
+IVFADC search = 1075.891 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 32.770
+IVFADC parament:  k= 100  coarsek=64  m=32  ker=512  w=8 
+IVFADC learn  = 496.031 s
+IVFADC encode = 85.641 s
+IVFADC search = 284.328 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 32.750
+IVFADC parament:  k= 100  coarsek=64  m=32  ker=512  w=16 
+IVFADC learn  = 497.188 s
+IVFADC encode = 85.156 s
+IVFADC search = 573.625 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 32.750
+IVFADC parament:  k= 100  coarsek=64  m=32  ker=512  w=32 
+IVFADC learn  = 498.531 s
+IVFADC encode = 85.188 s
+IVFADC search = 1108.516 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.350
+IVFADC parament:  k= 100  coarsek=64  m=64  ker=128  w=8 
+IVFADC learn  = 603.406 s
+IVFADC encode = 60.641 s
+IVFADC search = 410.453 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.950
+IVFADC parament:  k= 100  coarsek=64  m=64  ker=128  w=16 
+IVFADC learn  = 603.516 s
+IVFADC encode = 60.609 s
+IVFADC search = 820.172 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 100.000
+IVFADC parament:  k= 100  coarsek=64  m=64  ker=128  w=32 
+IVFADC learn  = 606.172 s
+IVFADC encode = 60.641 s
+IVFADC search = 1589.766 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.350
+IVFADC parament:  k= 100  coarsek=64  m=64  ker=256  w=8 
+IVFADC learn  = 1103.688 s
+IVFADC encode = 111.047 s
+IVFADC search = 422.203 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.950
+IVFADC parament:  k= 100  coarsek=64  m=64  ker=256  w=16 
+IVFADC learn  = 1104.594 s
+IVFADC encode = 110.813 s
+IVFADC search = 845.516 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 100.000
+IVFADC parament:  k= 100  coarsek=64  m=64  ker=256  w=32 
+IVFADC learn  = 1107.313 s
+IVFADC encode = 110.969 s
+IVFADC search = 1633.797 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 18.540
+IVFADC parament:  k= 100  coarsek=64  m=64  ker=512  w=8 
+IVFADC learn  = 1683.000 s
+IVFADC encode = 212.672 s
+IVFADC search = 434.172 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 18.360
+IVFADC parament:  k= 100  coarsek=64  m=64  ker=512  w=16 
+IVFADC learn  = 1687.266 s
+IVFADC encode = 212.438 s
+IVFADC search = 969.328 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 18.340
+IVFADC parament:  k= 100  coarsek=64  m=64  ker=512  w=32 
+IVFADC learn  = 2469.031 s
+IVFADC encode = 306.188 s
+IVFADC search = 2275.844 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 97.550
+IVFADC parament:  k= 100  coarsek=128  m=16  ker=128  w=8 
+IVFADC learn  = 108.219 s
+IVFADC encode = 29.813 s
+IVFADC search = 172.125 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.210
+IVFADC parament:  k= 100  coarsek=128  m=16  ker=128  w=16 
+IVFADC learn  = 108.406 s
+IVFADC encode = 30.203 s
+IVFADC search = 349.547 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.420
+IVFADC parament:  k= 100  coarsek=128  m=16  ker=128  w=32 
+IVFADC learn  = 108.797 s
+IVFADC encode = 29.516 s
+IVFADC search = 709.078 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 97.750
+IVFADC parament:  k= 100  coarsek=128  m=16  ker=256  w=8 
+IVFADC learn  = 181.984 s
+IVFADC encode = 48.547 s
+IVFADC search = 176.531 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.510
+IVFADC parament:  k= 100  coarsek=128  m=16  ker=256  w=16 
+IVFADC learn  = 180.781 s
+IVFADC encode = 48.438 s
+IVFADC search = 360.203 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.730
+IVFADC parament:  k= 100  coarsek=128  m=16  ker=256  w=32 
+IVFADC learn  = 180.078 s
+IVFADC encode = 48.859 s
+IVFADC search = 725.000 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 36.960
+IVFADC parament:  k= 100  coarsek=128  m=16  ker=512  w=8 
+IVFADC learn  = 342.891 s
+IVFADC encode = 84.891 s
+IVFADC search = 187.141 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 37.010
+IVFADC parament:  k= 100  coarsek=128  m=16  ker=512  w=16 
+IVFADC learn  = 344.109 s
+IVFADC encode = 84.641 s
+IVFADC search = 380.016 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 36.990
+IVFADC parament:  k= 100  coarsek=128  m=16  ker=512  w=32 
+IVFADC learn  = 342.594 s
+IVFADC encode = 85.234 s
+IVFADC search = 773.047 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 97.950
+IVFADC parament:  k= 100  coarsek=128  m=32  ker=128  w=8 
+IVFADC learn  = 207.516 s
+IVFADC encode = 38.125 s
+IVFADC search = 249.844 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.740
+IVFADC parament:  k= 100  coarsek=128  m=32  ker=128  w=16 
+IVFADC learn  = 208.109 s
+IVFADC encode = 37.891 s
+IVFADC search = 504.094 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.970
+IVFADC parament:  k= 100  coarsek=128  m=32  ker=128  w=32 
+IVFADC learn  = 207.828 s
+IVFADC encode = 38.078 s
+IVFADC search = 1019.031 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 97.950
+IVFADC parament:  k= 100  coarsek=128  m=32  ker=256  w=8 
+IVFADC learn  = 360.922 s
+IVFADC encode = 64.297 s
+IVFADC search = 258.859 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.740
+IVFADC parament:  k= 100  coarsek=128  m=32  ker=256  w=16 
+IVFADC learn  = 362.188 s
+IVFADC encode = 65.641 s
+IVFADC search = 517.078 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 99.980
+IVFADC parament:  k= 100  coarsek=128  m=32  ker=256  w=32 
+IVFADC learn  = 330.563 s
+IVFADC encode = 65.063 s
+IVFADC search = 1043.547 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 26.160
+IVFADC parament:  k= 100  coarsek=128  m=32  ker=512  w=8 
+IVFADC learn  = 691.766 s
+IVFADC encode = 120.594 s
+IVFADC search = 272.313 s  for 10000 query vectors in a database of 1000000 vectors
+
+r@100 = 26.050
+IVFADC parament:  k= 100  coarsek=128  m=32  ker=512  w=16 
+IVFADC learn  = 691.984 s
+IVFADC encode = 120.172 s
+IVFADC search = 547.906 s  for 10000 query vectors in a database of 1000000 vectors
+

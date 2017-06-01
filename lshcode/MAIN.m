@@ -1,9 +1,9 @@
-function [] = MAIN(data,type,l,k,d,nn_k,w)
+function [] = MAIN(data,type,l,k,nn_k,w)
 %MAIN 此处显示有关此函数的摘要
 %   此处显示详细说明
 dataset=data;
 pq_test_load_vectors;
-
+d=size(vbase,1);
 t0 = cputime;
 T = lsh(type,l,k,d,w,vbase);
 time_encode = cputime - t0;
